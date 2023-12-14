@@ -13,7 +13,7 @@
 *.exe
 *.recipe
 
-
+x64/
 
 # Chutzpah Test files
 _Chutzpah*
