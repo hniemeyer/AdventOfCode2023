@@ -3,6 +3,18 @@
 *.svclog
 *.scc
 
+.vs
+*.log
+*.ilk
+*.tlog
+*.pdb
+*.idb
+*.obj
+*.exe
+*.recipe
+
+
+
 # Chutzpah Test files
 _Chutzpah*
 
