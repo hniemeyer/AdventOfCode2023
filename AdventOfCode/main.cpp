@@ -2,5 +2,6 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "Hello Advent of Code 2023!\n";
+    std::cout << "Hello Osnacpp!\n";
 }
